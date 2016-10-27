@@ -1,0 +1,28 @@
+Release 9.2i - xst J.36
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.56 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../../src/mux_2_to_1.v" in library work
+Compiling verilog file "../../src/adder_4bits.v" in library work
+Module <mux_2_to_1> compiled
+Compiling verilog file "../../src/adder_32bits.v" in library work
+Module <adder_4bits> compiled
+Module <adder_32bits> compiled
+No errors in compilation
+Analysis of file <"adder_32bits.prj"> succeeded.
+ 
+CPU : 0.03 / 0.59 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 113612 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

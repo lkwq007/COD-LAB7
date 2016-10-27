@@ -1,0 +1,2 @@
+xst -ise "C:/lab7/ise/adder_32bit/adder_32bit.ise" -intstyle ise -ifn adder_32bits.xst -ofn adder_32bits.syr
+xst -ise "C:/lab7/ise/adder_32bit/adder_32bit.ise" -intstyle ise -ifn adder_32bits.xst -ofn adder_32bits.syr
