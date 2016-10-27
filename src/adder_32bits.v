@@ -1,7 +1,7 @@
 //==================================================================================================
 //  Filename      : adder_32bits.v
 //  Created On    : 2016-10-22 12:14:33
-//  Last Modified : 2016-10-22 12:41:13
+//  Last Modified : 2016-10-27 10:26:13
 //  Revision      : 
 //  Author        : Lnyan
 //  Company       : College of Information Science and Electronic Engineering, Zhejiang University
@@ -20,20 +20,20 @@ module adder_32bits(a,b,ci,s,co);
 	wire co_10,co_11,co_20,co_21,co_30,co_31,co_40,co_41,co_50,co_51,co_60,co_61,co_70,co_71;
 	wire co_0,co_1,co_2,co_3,co_4,co_5,co_6;
 	adder_4bits adder_0(.a(a[3:0]),.b(b[3:0]),.ci(ci),.s(s[3:0]),.co(co_0));
-	adder_4bits adder_10(.a(a[7:4]),.b(b[7:4]),.ci(0),.s(s_10),.co(co_10));
-	adder_4bits adder_11(.a(a[7:4]),.b(b[7:4]),.ci(1),.s(s_11),.co(co_11));
-	adder_4bits adder_20(.a(a[11:8]),.b(b[11:8]),.ci(0),.s(s_20),.co(co_20));
-	adder_4bits adder_21(.a(a[11:8]),.b(b[11:8]),.ci(1),.s(s_21),.co(co_21));
-	adder_4bits adder_30(.a(a[15:12]),.b(b[15:12]),.ci(0),.s(s_30),.co(co_30));
-	adder_4bits adder_31(.a(a[15:12]),.b(b[15:12]),.ci(1),.s(s_31),.co(co_31));
-	adder_4bits adder_40(.a(a[19:16]),.b(b[19:16]),.ci(0),.s(s_40),.co(co_40));
-	adder_4bits adder_41(.a(a[19:16]),.b(b[19:16]),.ci(1),.s(s_41),.co(co_41));
-	adder_4bits adder_50(.a(a[23:20]),.b(b[23:20]),.ci(0),.s(s_50),.co(co_50));
-	adder_4bits adder_51(.a(a[23:20]),.b(b[23:20]),.ci(1),.s(s_51),.co(co_51));
-	adder_4bits adder_60(.a(a[27:24]),.b(b[27:24]),.ci(0),.s(s_60),.co(co_60));
-	adder_4bits adder_61(.a(a[27:24]),.b(b[27:24]),.ci(1),.s(s_61),.co(co_61));
-	adder_4bits adder_70(.a(a[31:28]),.b(b[31:28]),.ci(0),.s(s_70),.co(co_70));
-	adder_4bits adder_71(.a(a[31:28]),.b(b[31:28]),.ci(1),.s(s_71),.co(co_71));
+	adder_4bits adder_10(.a(a[7:4]),.b(b[7:4]),.ci(1'b0),.s(s_10),.co(co_10));
+	adder_4bits adder_11(.a(a[7:4]),.b(b[7:4]),.ci(1'b1),.s(s_11),.co(co_11));
+	adder_4bits adder_20(.a(a[11:8]),.b(b[11:8]),.ci(1'b0),.s(s_20),.co(co_20));
+	adder_4bits adder_21(.a(a[11:8]),.b(b[11:8]),.ci(1'b1),.s(s_21),.co(co_21));
+	adder_4bits adder_30(.a(a[15:12]),.b(b[15:12]),.ci(1'b0),.s(s_30),.co(co_30));
+	adder_4bits adder_31(.a(a[15:12]),.b(b[15:12]),.ci(1'b1),.s(s_31),.co(co_31));
+	adder_4bits adder_40(.a(a[19:16]),.b(b[19:16]),.ci(1'b0),.s(s_40),.co(co_40));
+	adder_4bits adder_41(.a(a[19:16]),.b(b[19:16]),.ci(1'b1),.s(s_41),.co(co_41));
+	adder_4bits adder_50(.a(a[23:20]),.b(b[23:20]),.ci(1'b0),.s(s_50),.co(co_50));
+	adder_4bits adder_51(.a(a[23:20]),.b(b[23:20]),.ci(1'b1),.s(s_51),.co(co_51));
+	adder_4bits adder_60(.a(a[27:24]),.b(b[27:24]),.ci(1'b0),.s(s_60),.co(co_60));
+	adder_4bits adder_61(.a(a[27:24]),.b(b[27:24]),.ci(1'b1),.s(s_61),.co(co_61));
+	adder_4bits adder_70(.a(a[31:28]),.b(b[31:28]),.ci(1'b0),.s(s_70),.co(co_70));
+	adder_4bits adder_71(.a(a[31:28]),.b(b[31:28]),.ci(1'b1),.s(s_71),.co(co_71));
 	assign co_1=co_0?co_11:co_10;
 	assign co_2=co_1?co_21:co_20;
 	assign co_3=co_2?co_31:co_30;

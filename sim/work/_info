@@ -2,94 +2,94 @@ m255
 K3
 13
 cModel Technology
-dD:\Course\Digital System Design\work\lab16_201502\sim\control_2
+Z0 dD:\Course\Digital System Design\work\lab16_201502\sim\control_2
 vadder_32bits
-VH3MfAaUBUHMniOHlZdcI;0
-r1
-31
-IB0<6<K`c?nM0dUY;bdgJW0
-Z0 dD:\Course\Computer-Organization\Homework\lab7\sim
-w1477111300
-8D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v
-FD:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v
-L0 14
-Z1 OL;L;10.1c;51
-Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s85 0
-!s100 Q78d2Wm6Zen=?E7lkB0lH1
-!s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v|
-!s108 1477111532.894000
-!s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v|
-!i10b 1
-vadder_32bits_tb
-VP?e][o6n^f@f9ggj0;bR70
-r1
-31
-Izc]TaDIS@lbFKi@j1@G>@0
+Z1 IL7NfI]cMbV;El53^OUZDl0
+Z2 VH3MfAaUBUHMniOHlZdcI;0
 Z3 dD:\Course\Computer-Organization\Homework\lab7\sim
-Z4 w1473489810
-8D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v
-FD:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v
-L0 2
-R1
-R2
-!s85 0
-!s100 C8M@Dje=B3^G_k``m_Vih1
-!s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v|
-!s108 1477111533.187000
-!s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v|
-!i10b 1
-vadder_4bits
-VRIOd4YzBVIKIHabCV7aQM3
-r1
-31
-ITRbQV@RJgY6QoBggE;5:C3
-R3
-w1477109818
-8D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v
-FD:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v
+Z4 w1477535173
+Z5 8D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v
+Z6 FD:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v
 L0 14
-R1
-R2
-!s85 0
-!s100 WfHTjAU3omc=Z>KSn>Xdk0
-!s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v|
-!s108 1477111532.196000
-!s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v|
-!i10b 1
-vadder_4bits_tb
-I11O<fdlX2iCbQdcVh[Yb62
-V9C0Q6R<^MR:764[RV[z^j0
-R3
-R4
-8D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v
-FD:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v
-L0 2
-R1
+Z7 OL;L;10.1c;51
 r1
 31
-R2
-!s100 1442a6]E9<3;dfWdcLOTD3
-!s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v|
-!s108 1477111532.560000
-!s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v|
+Z9 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z10 !s100 5DF1UBSdVbiVJb3^j3G3N0
+Z11 !s108 1477535220.872000
+Z12 !s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits.v|
+!i10b 1
+!s85 0
+vadder_32bits_tb
+Z13 !s100 C8M@Dje=B3^G_k``m_Vih1
+Z14 Izc]TaDIS@lbFKi@j1@G>@0
+Z15 VP?e][o6n^f@f9ggj0;bR70
+R3
+Z16 w1473489810
+Z17 8D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v
+Z18 FD:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v
+L0 2
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v|
+R9
+!i10b 1
+!s85 0
+Z20 !s108 1477535221.135000
+Z21 !s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_32bits_tb.v|
+vadder_4bits
+Z22 !s100 WfHTjAU3omc=Z>KSn>Xdk0
+Z23 ITRbQV@RJgY6QoBggE;5:C3
+Z24 VRIOd4YzBVIKIHabCV7aQM3
+R3
+Z25 w1477109818
+Z26 8D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v
+Z27 FD:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v
+L0 14
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v|
+R9
+Z29 !s108 1477535220.072000
+Z30 !s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits.v|
+!i10b 1
+!s85 0
+vadder_4bits_tb
+Z31 !s100 1442a6]E9<3;dfWdcLOTD3
+Z32 I11O<fdlX2iCbQdcVh[Yb62
+Z33 V9C0Q6R<^MR:764[RV[z^j0
+R3
+R16
+Z34 8D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v
+Z35 FD:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v
+L0 2
+R7
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v|
+R9
+Z37 !s108 1477535220.573000
+Z38 !s107 D:/Course/Computer-Organization/Homework/lab7/src/adder_4bits_tb.v|
 !i10b 1
 !s85 0
 vmux_2_to_1
-VfghA^>C4^[^1aHmI<IOOL1
+!i10b 1
+Z39 !s100 ???GEFBCRanPKTML^FeG90
+Z40 I3:8SN[1HV@]9dKA]`NNX91
+Z41 VfghA^>C4^[^1aHmI<IOOL1
+R3
+Z42 w1477111528
+Z43 8D:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v
+Z44 FD:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v
+L0 14
+R7
 r1
 !s85 0
 31
-I3:8SN[1HV@]9dKA]`NNX91
-R3
-w1477111528
-8D:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v
-FD:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v
-L0 14
-R1
-R2
-!i10b 1
-!s100 ???GEFBCRanPKTML^FeG90
-!s108 1477111533.421000
+!s108 1477535221.451000
 !s107 D:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v|
-!s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v|
+Z45 !s90 -reportprogress|300|-work|work|-vopt|D:/Course/Computer-Organization/Homework/lab7/src/mux_2_to_1.v|
+R9
