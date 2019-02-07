@@ -1,7 +1,7 @@
 //==================================================================================================
 //  Filename      : adder_32bits.v
 //  Created On    : 2016-10-22 12:14:33
-//  Last Modified : 2016-10-27 10:26:13
+//  Last Modified : 2019-02-07 23:02:27
 //  Revision      : 
 //  Author        : Lnyan
 //  Company       : College of Information Science and Electronic Engineering, Zhejiang University
